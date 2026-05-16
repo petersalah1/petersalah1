@@ -1,99 +1,174 @@
-```md
-<h1 align="center">Hi, I'm Peter Salah 👋</h1>
+````md
+<div align="center">
 
-<p align="center">
-  Frontend Developer focused on React & Next.js
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+There+👋;I'm+Peter+Salah;Frontend+Developer;React+%26+Next.js+Enthusiast" />
+
+<h3>Frontend Developer focused on React & Next.js</h3>
+
+<p>
+I build modern, responsive, and user-focused web applications using React, Next.js, and Tailwind CSS.
 </p>
 
-<p align="center">
-  I build responsive, modern, and user-focused web applications using React, Next.js, and Tailwind CSS.
-</p>
+<a href="https://petersalah.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/petersalah/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:petersalah104@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=petersalah1&style=for-the-badge&color=blue" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🎓 Computer Science student
-- 💻 Frontend Developer specialized in React & Next.js
-- 🌱 Currently learning TypeScript & Redux
-- ⚡ Passionate about building clean UI and smooth user experiences
-- 📍 Based in Egypt
+```js
+const peter = {
+  location: "Egypt",
+  role: "Frontend Developer",
+  technologies: ["React", "Next.js", "JavaScript", "Tailwind CSS"],
+  currentlyLearning: ["TypeScript", "Redux"],
+  portfolio: "https://petersalah.vercel.app/"
+};
+````
+
+* 🎓 Computer Science student
+* 💻 Passionate about building modern web apps
+* ⚡ Focused on performance, clean UI, and responsive design
+* 🚀 Currently improving my frontend architecture skills
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Tech Stack
+
+<div align="center">
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
 
 ### Tools & Libraries
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,firebase,figma,npm" />
+
+</div>
 
 ---
 
 # 🌟 Featured Projects
 
 ## 🎓 Ahmed Megaly Educational Platform
-🔗 Live Demo: https://ahmedmegaly.sck.guru/
 
-- Built responsive RTL educational interfaces
-- Integrated backend APIs using Axios & React Query
-- Implemented protected lesson flows, exams, and scoring systems
+🔗 Live Demo:
+https://ahmedmegaly.sck.guru/
 
-**Tech:** Next.js, React.js, Tailwind CSS, React Query, Axios
+### Features
+
+* Responsive Arabic RTL educational platform
+* Authentication & protected lesson flows
+* Exams, scoring system, and revision tracking
+* Dynamic APIs integration with React Query & Axios
+
+### Built With
+
+`Next.js` `React.js` `Tailwind CSS` `Axios` `React Query`
 
 ---
 
 ## 🛒 NextShop E-Commerce
-🔗 Live Demo: https://next-shop-kappa-wine.vercel.app/  
-🔗 GitHub: https://github.com/petersalah1/nextShop
 
-- Built full responsive e-commerce experience
-- Implemented dynamic product pages, pagination, sorting, and cart system
-- Managed APIs with React Query and reusable hooks
+🔗 Live Demo:
+https://next-shop-kappa-wine.vercel.app/
 
-**Tech:** Next.js, React.js, Tailwind CSS, Axios, Context API
+🔗 GitHub Repository:
+https://github.com/petersalah1/nextShop
+
+### Features
+
+* Responsive e-commerce UI
+* Dynamic products & categories
+* Pagination, sorting, and guest cart system
+* Reusable hooks and API services
+
+### Built With
+
+`Next.js` `React.js` `Tailwind CSS` `Axios` `Context API`
 
 ---
 
 ## ✈️ Nivirra Tourism Website
-🔗 Live Demo: https://petersalah1.github.io/Nivirra/index.html
 
-- Responsive tourism landing page
-- Interactive travel customization flow
-- Focused on smooth UX and clean design
+🔗 Live Demo:
+https://petersalah1.github.io/Nivirra/index.html
 
-**Tech:** HTML, CSS, JavaScript
+### Features
 
----
+* Responsive tourism landing page
+* Interactive booking customization flow
+* Smooth UI and mobile-friendly experience
 
-## 📊 GitHub Stats
+### Built With
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=petersalah1&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=petersalah1&theme=tokyonight" />
-</p>
+`HTML` `CSS` `JavaScript`
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
 
-- LinkedIn: https://www.linkedin.com/in/petersalah/
-- Portfolio: https://petersalah.vercel.app/
-- Email: petersalah104@gmail.com
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=petersalah1&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersalah1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=petersalah1&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile ❤️
-</p>
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/petersalah1/petersalah1/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://petersalah.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/petersalah/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:petersalah104@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+
+</div>
 ```
