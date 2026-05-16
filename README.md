@@ -95,16 +95,6 @@ https://petersalah1.github.io/Nivirra/index.html
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/petersalah1/petersalah1/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
 # 📫 Connect With Me
 
 <div align="center">
