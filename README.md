@@ -1,11 +1,30 @@
 
 
-* 🎓 Computer Science student
-* 💻 Passionate about building modern web apps
-* ⚡ Focused on performance, clean UI, and responsive design
-* 🚀 Currently improving my frontend architecture skills
 
----
+<h1 align="center">👋 Hi there, I'm Peter Salah</h1>
+
+<p align="center">
+  💻 Frontend Developer | ⚛️ React & Next.js Developer | 🇪🇬 Based in Egypt
+</p>
+
+<hr/>
+
+<h2>📬 Contact Me</h2>
+
+<ul>
+  <li>📧 Email: <a href="mailto:petersalah104@gmail.com">petersalah104@gmail.com</a></li>
+  
+  <li>🌐 Portfolio: <a href="https://petersalah.vercel.app/">petersalah.vercel.app</a></li>
+  
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/petersalah/">linkedin.com/in/petersalah</a></li>
+  
+  <li>💻 GitHub: <a href="https://github.com/petersalah1">github.com/petersalah1</a></li>
+  
+  <li>📱 Phone: +201204995735</li>
+</ul>
+```
+
+
 
 # 🚀 Tech Stack
 
@@ -32,14 +51,14 @@ https://ahmedmegaly.sck.guru/
 
 ### Features
 
-* Responsive Arabic RTL educational platform
-* Authentication & protected lesson flows
-* Exams, scoring system, and revision tracking
-* Dynamic APIs integration with React Query & Axios
+* Built responsive Arabic RTL educational interfaces
+* Integrated backend APIs using Axios & React Query
+* Implemented authentication and protected lesson flows
+* Added exams, scoring system, and revision tracking
 
 ### Built With
 
-`Next.js` `React.js` `Tailwind CSS` `Axios` `React Query`
+`Next.js` `React.js` `Tailwind CSS` `Axios` `React Query` `Framer Motion`
 
 ---
 
@@ -53,9 +72,10 @@ https://github.com/petersalah1/nextShop
 
 ### Features
 
-* Responsive e-commerce UI
-* Dynamic products & categories
-* Pagination, sorting, and guest cart system
+* Responsive e-commerce user interface
+* Dynamic products, categories, and brands pages
+* Pagination, sorting, discount display, and rating system
+* Guest cart functionality using LocalStorage
 * Reusable hooks and API services
 
 ### Built With
@@ -74,6 +94,7 @@ https://petersalah1.github.io/Nivirra/index.html
 * Responsive tourism landing page
 * Interactive booking customization flow
 * Smooth UI and mobile-friendly experience
+* Built using Vanilla JavaScript
 
 ### Built With
 
@@ -85,27 +106,25 @@ https://petersalah1.github.io/Nivirra/index.html
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=petersalah1&theme=tokyonight&hide_border=true"/>
+
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=petersalah1&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=petersalah1&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=petersalah1&theme=github_dark" />
+
 
 </div>
 
----
 
-# 📫 Connect With Me
+
+# ⚡ Currently Learning
 
 <div align="center">
 
-<a href="https://petersalah.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/petersalah/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:petersalah104@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=ts,redux" />
 
 </div>
 
