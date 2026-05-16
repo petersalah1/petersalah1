@@ -1,43 +1,4 @@
-````md
-<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+There+👋;I'm+Peter+Salah;Frontend+Developer;React+%26+Next.js+Enthusiast" />
-
-<h3>Frontend Developer focused on React & Next.js</h3>
-
-<p>
-I build modern, responsive, and user-focused web applications using React, Next.js, and Tailwind CSS.
-</p>
-
-<a href="https://petersalah.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/petersalah/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:petersalah104@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=petersalah1&style=for-the-badge&color=blue" />
-
-</div>
-
----
-
-# 💫 About Me
-
-```js
-const peter = {
-  location: "Egypt",
-  role: "Frontend Developer",
-  technologies: ["React", "Next.js", "JavaScript", "Tailwind CSS"],
-  currentlyLearning: ["TypeScript", "Redux"],
-  portfolio: "https://petersalah.vercel.app/"
-};
-````
 
 * 🎓 Computer Science student
 * 💻 Passionate about building modern web apps
