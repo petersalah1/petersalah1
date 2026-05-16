@@ -134,7 +134,6 @@ https://petersalah1.github.io/Nivirra/index.html
 
 ### ⭐ Thanks for visiting my profile ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
 
 </div>
-```
+
